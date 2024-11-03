@@ -1,6 +1,6 @@
 ﻿using System;
 
-internal class Exercicio1172
+public class Exercicio1172
 {
     static void Main()
     {
